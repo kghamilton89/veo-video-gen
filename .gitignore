@@ -1,5 +1,6 @@
 # Local
 .env
+.DS_STORE
 
 # Logs
 logs

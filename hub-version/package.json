@@ -1,0 +1,24 @@
+{
+  "name": "veo-video-gen",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "OpenClaw Skill to generate videos using Google's Veo model and the Gemini API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kghamilton89/veo-video-gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kghamilton89/veo-video-gen/issues"
+  },
+  "homepage": "https://github.com/kghamilton89/veo-video-gen#readme",
+  "dependencies": {
+    "@google/genai": "^1.41.0"
+  }
+}
